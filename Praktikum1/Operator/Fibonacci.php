@@ -8,7 +8,7 @@
 <body>
     <h1>Deret Fibonacci</h1>
     <?php
-    $n = 10; // jumlah angka yang ditampilkan
+    $n = 10;
     $a = 0;
     $b = 1;
 
